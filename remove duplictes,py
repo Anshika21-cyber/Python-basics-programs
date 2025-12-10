@@ -1,0 +1,5 @@
+a=[int (x) for x in input("enter list:").split()]
+print(a)
+
+b=set(a)
+print(b)
